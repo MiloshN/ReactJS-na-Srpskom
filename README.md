@@ -1,2 +1,1 @@
-# ReactJS-na-Srpskom
-Prevod oficijalne dokumentacije React JSa na Srpskom.
+# **React - JavaScript biblioteka (framework) za kreiranje UIa. (user interface)**
